@@ -4,10 +4,10 @@
 
 Firmware for ESP32 to control a three-wheeled omni-directional robot. Uses inverse kinematics for holonomic movement. Wireless control via WebSocket in AP mode.
 
-![Robot Setup](robot_setup.jpg)  
+![Robot Setup](annotated_robot.jpg)  
 *(Image of the assembled robot on a tiled floor.)*
 
-![Annotated Robot](annotated_robot.jpg)  
+![Annotated Robot](robot_setup.jpg)  
 *(Annotated image showing directions and labels like "PART 3: OMNI DRIVE ROBOT", "ESP32 + WIFI", "FINALLY WORKING", "MOVE TO ANY DIRECTION".)*
 
 ## Features
